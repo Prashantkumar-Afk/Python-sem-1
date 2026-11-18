@@ -1,0 +1,14 @@
+Unit 1 – Python Basics and Operators
+Problems 1–12
+1. Create a calculator that performs addition, subtraction, multiplication, division, floor division and modulus.
+2. Write a program to swap two numbers without using a third variable.
+3. Create a temperature converter between Celsius, Fahrenheit and Kelvin.
+4. Write a program to calculate the total bill after applying GST and a discount.
+5. Create a program to calculate an employee's salary using basic salary, HRA, DA and deductions.
+6. Write a program to calculate the distance between two points using their coordinates.
+7. Create a program to convert seconds into hours, minutes and seconds.
+8. Write a program to calculate the roots of a quadratic equation.
+9. Create a program that accepts marks in multiple subjects and calculates percentage and grade.
+10. Write a program to calculate the compound interest for given principal, rate and time.
+11. Create a currency converter using predefined exchange rates.
+12.Write a program to calculate the total cost of purchasing multiple products with quantities and prices.
